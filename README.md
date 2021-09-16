@@ -11,7 +11,7 @@
 
 
 <a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.svg" height="42" width="42px"> </a>
-<a href="mailto:savaphrenia@gmail.com?subject=ask from github"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/gmail.svg" height="42px"> </a>
+<a href="mailto:savaphrenia@gmail.com"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/gmail.svg" height="42px"> </a>
 
 
 <h2>👩‍💻 Skills</h2>
