@@ -7,8 +7,7 @@
   Code 4 fun
   <img src="https://media3.giphy.com/media/ZeRd3TAGDjYOcgwg0e/giphy.gif?cid=790b7611e922d2d36a747d3a12bd3909ef9b4844d862a3f0&rid=giphy.gif" height="42px">
   </br>
-  [![GitHub Lifylun](https://img.shields.io/github/followers/lifylun?label=follow&style=social)](https://github.com/Lifylun)
-  ![](https://komarev.com/ghpvc/?username=lifylun&color=green)
+
 </p>
 
 <a href="https://t.me/savaphrenia"> <img src="https://banner2.cleanpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" height="42"> </a>
@@ -32,11 +31,11 @@
   <a href="https://www.learn-c.org/"> <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png" height="42px" alt="C "> </a>
   <a href="https://www.postman.com/"> <img src="https://image.pngaaa.com/42/95042-middle.png" height="42px" alt="Postman "> </a>
   <a href="https://www.virtualbox.org/"> <img src="https://w7.pngwing.com/pngs/997/157/png-transparent-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-linux.png" height="42px" alt="VirtualBox "> </a>
+  <a href="https://nmap.org/"> <img src="https://www.pinclipart.com/picdir/middle/453-4538905_environment-clipart-similarity-nmap-logo-png-download.png" height="42px" alt="Nmap "> </a>
 </p>
 
 <h3>Objective</h3>
 
 <p>
-  Want to clean code in projects, then publish
-  Believe in Open source projects
+Really want to write more open source program
 </p>
