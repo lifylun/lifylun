@@ -16,7 +16,7 @@
 
 <h2>👩‍💻 Skills</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/python.svg" height="42px" width="42px" alt="Python "> </a>
   <a href="https://www.learn-c.org/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/c.svg" height="42px" width="42px" alt="C "> </a>
   <a href="https://www.php.net/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/php.svg" height="42px" alt="PHP "> </a>
@@ -26,10 +26,9 @@
   <a href="https://ubuntu.com/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/ubuntu.svg" height="42px" alt="Ubuntu "> </a>
   <a href="https://www.kali.org/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/kali.svg" height="42px" alt="Kali "> </a>
   <a href="https://www.microsoft.com/pt-br/windows/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/windows.svg" height="42px" alt="Windows "> </a>
-  <a href="https://www.arduino.cc/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/arduino.svg" height="42px" alt="Arduino "> </a>
   <a href="https://nmap.org/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/nmap.svg" height="42px" alt="Nmap "> </a>
+  <a href="https://www.arduino.cc/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/arduino.svg" height="42px" alt="Arduino "> </a>
   <a href="https://www.postman.com/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/postman.svg" height="42px" alt="Postman "> </a>
-  <a href="https://www.virtualbox.org/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/virtualbox.svg" height="42px" alt="VirtualBox "> </a>
   <a href="https://git-scm.com/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/git.svg" height="42px" alt="Git "> </a>
   <a href="https://www.docker.com/"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/docker.svg" height="42px" alt="Docker "> </a>
 </p>
