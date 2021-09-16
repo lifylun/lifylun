@@ -16,9 +16,9 @@ img {
   </br>
 
 </p>
-
-<a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.png" height="42"> </a>
-<a href="mailto:savaphrenia@gmail.com?subject=ask from github"> <img src="https://www.citypng.com/public/uploads/preview/-11597283055r5ynokf2kb.png" height="42px"> </a>
+<a href="https://t.me/savaphrenia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" width="50px"> </a>
+<a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.png" height="50" width="50px"> </a>
+<a href="mailto:savaphrenia@gmail.com?subject=ask from github"> <img src="https://www.citypng.com/public/uploads/preview/-11597283055r5ynokf2kb.png" height="42px" width="50px"> </a>
 
 
 <h2>👩‍💻 Skills</h2>
