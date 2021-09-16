@@ -3,21 +3,14 @@
 </h2>
 <img align='right' src="https://media3.giphy.com/media/iIGT8Y1rOYhBpdHh1C/200.webp?cid=ecf05e47hx2zel2f8uroetj4wt9uo4oqj8a6nj1z4gr79sab&rid=200.webp" width="230">
 
-<style>
-img {
-    background: none !important;
-    box-shadow: none !important;
-}
-</style>
-
 <p>
   Code 4 fun
   <img src="https://media3.giphy.com/media/ZeRd3TAGDjYOcgwg0e/giphy.gif?cid=790b7611e922d2d36a747d3a12bd3909ef9b4844d862a3f0&rid=giphy.gif" height="42px">
   </br>
-
 </p>
+
 <a href="https://t.me/savaphrenia"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50" width="50px"> </a>
-<a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.png" height="50" width="50px"> </a>
+<a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.svg" height="50" width="50px"> </a>
 <a href="mailto:savaphrenia@gmail.com?subject=ask from github"> <img src="https://www.citypng.com/public/uploads/preview/-11597283055r5ynokf2kb.png" height="42px" width="50px"> </a>
 
 
