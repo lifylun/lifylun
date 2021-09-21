@@ -6,7 +6,6 @@
 <p>
   Code 4 fun
   <img src="https://media3.giphy.com/media/ZeRd3TAGDjYOcgwg0e/giphy.gif?cid=790b7611e922d2d36a747d3a12bd3909ef9b4844d862a3f0&rid=giphy.gif" height="42px">
-  </br>
 </p>
 
 <h3>find me</h3>
