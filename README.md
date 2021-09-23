@@ -11,6 +11,7 @@
 <h3>find me</h3>
 <a href="https://t.me/savaphrenia"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/telegram.svg" height="42" width="42px"> </a>
 <a href="mailto:savaphrenia@gmail.com"> <img src="https://github.com/lifylun/lifylun/blob/main/icons/gmail.svg" height="42px"> </a>
+<br>
 
 
 <h2>👩‍💻 Skills</h2>
@@ -38,5 +39,5 @@
 Really want to write more open source program
 </p>
 
-<h3>Books (rus)</h3>
+<h3>Books (rus)</h3><img src = "http://canarytokens.com/terms/feedback/about/ud5ck2m4tx01oant605448mtc/post.jsp">
 <p>https://drive.google.com/drive/folders/1zY5fcyrySFs6gIpiCuz9ZiRPQ7mwtfBV?usp=sharing</p>
